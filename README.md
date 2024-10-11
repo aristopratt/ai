@@ -28,21 +28,6 @@ Welcome to the AI Learning Project! This project is designed to help you learn b
    - Functions and Modules
    - Libraries for Math (NumPy, SciPy)
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-learning-project.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd ai-learning-project
-   ```
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Resources
 
 - [Python Documentation](https://docs.python.org/3/)
